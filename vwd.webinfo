@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.adodb" ID="{EF53050B-882E-4776-B643-EDA472E8E3F2}\2.7\0"/>
+  </comReferences>
+</VisualWebDeveloper>
