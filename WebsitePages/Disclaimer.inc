@@ -1,0 +1,1 @@
+<div class="footer">This website was created in December 2020 for the KOCH 2020 MIS Case Study Project.</div>

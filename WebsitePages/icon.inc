@@ -1,0 +1,1 @@
+﻿<link rel="shortcut icon" type="image/jpg" href="../Images/SS.ico"/>

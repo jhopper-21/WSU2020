@@ -1,0 +1,139 @@
+﻿@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+    margin: 0px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+
+
+.nav-area ul li {
+    display: inline-block;
+    margin: 0 22px;
+}
+
+    .nav-area ul li a {
+        color: #818181;
+        font-size: 30px;
+        font-weight: 500;
+        text-decoration: none;
+        font-family: poppins;
+        transition: 0.3s;
+        text-transform: uppercase;
+    }
+
+.nav-area li a:hover {
+    color: #ffc217;
+}
+
+.nav-area li a:hover {
+    color: #ffc217;
+}
+
+.searchbox {
+    border: none;
+    background: transparent;
+    outline: none;
+    color: #818181;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: poppins;
+    Width: 210px;
+}
+
+.material-icons {
+    color: #818181;
+}
+
+
+.coverImageHolder {
+    width: 100%;
+    padding: 0px;
+    height: 350px;
+    background-image: url(https://www.wichita.edu/services/strategic_communications/brand_standards/_images/WSU_ZoomBackground_1920x1080_05.jpg);
+    background-position-y: 100%;
+    border-top: 3px #818181 solid;
+}
+
+.userOptionBar {
+    height: 60px;
+    background: #fff;
+    width: 100%;
+    padding: 10px;
+    border-top: 3px #818181 solid;
+    border-bottom: 3px #818181 solid;
+    background-color: rgba(0, 0, 0, 0.02);
+}
+
+.search {
+    height: 30px;
+    color: #818181;
+    font-size: 15px;
+    background: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: #818181;
+}
+    .search:hover {
+        background: #818181;
+        border-color: #818181;
+        color: #fff;
+    }
+
+
+.spacer {
+    height: 20px;
+    width: 100%;
+}
+
+
+.wrapper {
+    text-align: center;
+    font-family: poppins;
+    font-size: 18px;
+}
+
+.sidebar {
+    left: 0;
+    width: 18%;
+    background-color: #fff;
+    padding: 8px 8px 8px 8px;
+    text-transform: uppercase;
+    border: 3px #fff;
+    background: #fff;
+    border-radius: 5px;
+
+}
+
+    .sidebar h1 {
+        text-decoration: none;
+        color: #fff;
+        font-size: 30px;
+        font-family: poppins;
+        display: block;
+        border-bottom: 4px #fff;
+        text-align: center;
+    }
+
+    .sidebar a {
+        padding: 8px 8px 8px 8px;
+        text-decoration: none;
+        color: #fff;
+        font-family: poppins;
+        font-size: 30px;
+        display: block;
+        transition: 0.3s;
+    }
+
+     
+
+.wizard {
+    width: 100%;
+   
+}
+
+.wiz{
+    width: 100%;
+    margin-top: -340px;
+}
